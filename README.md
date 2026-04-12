@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Lidia Karine Acuña González 👋</h1>
+<h1>Hola, soy Lidia Acuña González</h1>
 
-<h3 align="center">Desarrolladora Full Stack JavaScript Junior</h3>
+<h3>Desarrolladora Full Stack JavaScript Junior</h3>
 
-<p align="center">
-Apasionada por la tecnología, el desarrollo web y el aprendizaje continuo.<br>
+<p>
+Apasionada por la tecnología, el desarrollo web y el aprendizaje continuo.
 Con experiencia profesional en operaciones financieras y transición al mundo IT.
 </p>
 
@@ -48,20 +48,5 @@ Aplicación backend profesional con Node.js, Express, JWT, CRUD, API RESTful y b
 
 ## 📫 Contacto
 
-📧 tucorreo@email.com  
-💼 LinkedIn: https://linkedin.com/in/tuusuario
-
----
-
-## 📊 GitHub Stats
-
-![Lidia GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiakag&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiakag&layout=compact&theme=tokyonight)
-
----
-
-<p align="center">
-✨ Gracias por visitar mi perfil ✨
-</p>
-```
+📧 lidiakag.work@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/lidiakag
