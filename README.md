@@ -1,20 +1,3 @@
-Perfecto 😎🔥 entonces vamos con perfil **pro total**.
-
-## Configuración elegida:
-
-✅ LinkedIn
-✅ Correo
-✅ Foto GitHub
-✅ Mostrar todo
-✅ Estilo elegante profesional tech
-
----
-
-# 📌 README para tu GitHub Profile (`lidiakag`)
-
-Copia esto en tu `README.md`
-
-```md
 <h1 align="center">Hola, soy Lidia Karine Acuña González 👋</h1>
 
 <h3 align="center">Desarrolladora Full Stack JavaScript Junior</h3>
